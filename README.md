@@ -34,8 +34,8 @@ Este projeto foi construído com:
 Fluxo principal do aplicativo, desde o início do quiz até a exibição do resultado final.
 
 <p align="center">
-  <img src="screenshots/tela-inicial.png" width="250" alt="Tela inicial do iQuiz"/>
-  <img src="screenshots/perguntas.png" width="250" alt="Tela de pergunta com resposta certa do iQuiz"/>
-  <img src="screenshots/pergunta.png" width="250" alt="Tela de pergunta com resposta errada do iQuiz"/>
-  <img src="screenshots/tela-final.png" width="250" alt="Tela de resultado do iQuiz"/>
+  <img src="screenshots/tela-inicial.png" width="200" alt="Tela inicial do iQuiz"/>
+  <img src="screenshots/perguntas.png" width="200" alt="Tela de pergunta com resposta certa do iQuiz"/>
+  <img src="screenshots/pergunta.png" width="200" alt="Tela de pergunta com resposta errada do iQuiz"/>
+  <img src="screenshots/tela-final.png" width="200" alt="Tela de resultado do iQuiz"/>
 </p>
